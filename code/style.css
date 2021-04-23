@@ -1,0 +1,43 @@
+/* Example styling of a h1 element */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: white;
+  font-family: 'Lora', serif;
+}
+
+h1 {
+  color: black;
+  font-size: 3rem;
+}
+
+.header{
+  height: 15vh;
+  padding-top: 3rem; 
+  text-align: center;
+  color: black;
+  font-size: 1rem;
+}
+
+
+.container {
+  height: 45vh;
+  padding: 2rem 5rem 1rem 5rem;
+  color: black;
+  text-align: justify;
+  background-color: #CDFCFF;
+  line-height: 2;
+  
+}
+
+
+
+.links{
+  background-color: white;
+  padding: 2rem 5rem 0 5rem;
+  display: flex;
+  justify-content: space-around;
+}
